@@ -20,21 +20,21 @@ source-code: https://github.com/ahva-ubc/early-modern-italy.git
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH
+title: Early Modern Italian Art and Culture (ca. 1550-1700):
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: The Spectacle of the Counter Reformation
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This course provides a study of the visual culture of Counter Reformation Italy along with particular emphasis on Rome as the center of artistic, cultural, economic, and religious life in seventeenth century Italy. Lecture topics and readings engage with such topics as the Carracci Academy’s rejection of mannerism and the reform of painting, the rise of naturalism and the emergence of Caravaggio and his followers such as Artemisia Gentileschi, the eroticization of religious violence in pictures for private collections, the development of an open market for works of genre painting, the rise to prominence of Bernini, large architectural and sculptural projects for the Papacy and private patrons, the peculiar case of Protestant artists and other outsiders working in Roman Catholic Rome during the 1600s, and the visualization of difference in representations of global conversion. The broad range of a general survey will be balanced with close critical readings of selected objects and artists."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Joseph Monteyne
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection)
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: early_modern_italian_art_and_culture
 
 ##########
 # GOOGLE SERVICES [optional!]
