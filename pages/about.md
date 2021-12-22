@@ -20,7 +20,7 @@ The material on this site is intended for educational and scholarly use as in te
 
 Here are some of themes we'll explore this semester:
 
-<ul>THE FALL OF THE IDOLS: COUNTER-REFORMATION, THE REJECTION OF MANNERISM, AND THE EMERGENCE OF THE CARRACCI/ul>
+<ul>THE FALL OF THE IDOLS: COUNTER-REFORMATION, THE REJECTION OF MANNERISM, AND THE EMERGENCE OF THE CARRACCI</ul>
 <ul>FRUIT AND FLESH: THE EARLY ROMAN WORKS OF CARAVAGGIO</ul>
 <ul>PAGAN LOVE ADVENTURES: ANNIBALE CARRACCI AND THE DECORATONS OF THE PALAZZO FARNESE</ul>
 <ul>GENRE PAINTING IN THE CHAPEL? THE EARLY RELIGIOUS WORKS OF CARAVAGGIO</ul>
@@ -32,6 +32,3 @@ Here are some of themes we'll explore this semester:
 <ul>THE FEMALE MYSTIC, THE FOUNTAIN, AND THE FLOATING DOME: BERNINI’S PROJECTS FOR PRIVATE PATRONS AND RELIGIOUS ORDERS</ul>
 <ul>BANDITS AND BAMBOCCIANTI: SALVATOR ROSA, GENRE PAINTING, AND THE OPEN MARKET AT MID-CENTURY</ul>
 <ul>FROM ROME TO THE WORLD: LATE ROMAN CLASSICISM, THE JESUITS, AND VISUALIZING GLOBAL CONVERSION</ul>
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %}
