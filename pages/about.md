@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is meant to showcase content covered in ARTH 320, Entangled Worlds: Art and Architecture in Spain and Colonial Latin America 1500-1700. The course will be taugh by Prof. Joseph Monteyne in Winter I, @ the UBC Department of Art History, Visual Art and Theory (AHVA).
+This site is meant to showcase content covered in of ARTH 322 Early Modern Italian Art and Culture (ca. 1550-1700): The Spectacle of the Counter Reformation. The course will be taught by Prof. Joseph Monteyne in Winter II, @ the UBC Department of Art History, Visual Art and Theory (AHVA).
 
 The material on this site is intended for educational and scholarly use as in teaching, research, private study, criticism, and review. The author(s) of the site have made a good faith effort to identify and acknowledge content creators of the various images used on the site. If you desire to claim copyright to an image on this site and want the authors to either take an image down or append proper acknowledgment for an image, please inform us at remi.castonguay [at] ubc.edu.
 
