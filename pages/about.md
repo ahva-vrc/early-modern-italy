@@ -10,9 +10,9 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/image13.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;" %}
+{% include feature/nav-menu.html sections="About ARTH 322;" %}
 
-## About the Collection
+## About ARTH 322
 
 This site is meant to showcase content covered in of ARTH 322 Early Modern Italian Art and Culture (ca. 1550-1700): The Spectacle of the Counter Reformation. The course will be taught by Prof. Joseph Monteyne in Winter II, @ the UBC Department of Art History, Visual Art and Theory (AHVA).
 
