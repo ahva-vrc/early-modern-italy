@@ -32,3 +32,14 @@ Here are some of themes we'll explore this semester:
 <ul>THE FEMALE MYSTIC, THE FOUNTAIN, AND THE FLOATING DOME: BERNINI’S PROJECTS FOR PRIVATE PATRONS AND RELIGIOUS ORDERS</ul>
 <ul>BANDITS AND BAMBOCCIANTI: SALVATOR ROSA, GENRE PAINTING, AND THE OPEN MARKET AT MID-CENTURY</ul>
 <ul>FROM ROME TO THE WORLD: LATE ROMAN CLASSICISM, THE JESUITS, AND VISUALIZING GLOBAL CONVERSION</ul>
+
+<a href="https://ahva.ubc.ca/">Department of Art History, Visual Art and Theory, University of British Columbia, Vancouver Point Grey Campus</a>, traditional, ancestral, and unceded territory of the xwməθkwəy̓əm (Musqueam) People
+
+Instructor: <a href="https://ahva.ubc.ca/profile/joseph-monteyne/">Joseph Monteyne</a>
+
+Teaching Assistant: TBC
+
+This course provides a study of the visual culture of Counter Reformation Italy, with particular emphasis on Rome as the center of artistic, cultural, economic, and religious life in seventeenth century Italy.
+Lecture topics and readings engage with such topics as the Carracci Academy’s rejection of mannerism and the reform of painting, the rise of naturalism and the emergence of Caravaggio and his followers such as Artemisia Gentileschi, the eroticization of religious violence in pictures for private collections, the development of an open market for works of genre painting, the rise to prominence of Bernini, large architectural and sculptural projects for the
+Papacy and private patrons, the peculiar case of Protestant artists and other outsiders working in Roman Catholic Rome during the 1600s, and the visualization of difference in representations of global conversion.
+The broad range of a general survey will be balanced with close critical readings of selected objects and artists.
