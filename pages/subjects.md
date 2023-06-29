@@ -17,13 +17,16 @@ Use this word cloud visualization to browse artworks connected to a specific lec
 Word size is determined by frequency and all words link to a corresponding collection search.
 
 Lectures:
-1. Giotto and the Private Chapel in Padua, Civic and Secular Art in 14th century Siena
-2. Rebuplican Florence and the Theater of Public Life and Public Space: The Early Quattrocento
-3. The Return of the Medici to Florence: Albertian Refinements in Architecture and Painting
-4. Venice between East and West: The Bellini and the Emergence of Oil Painting
-5. Andrea Mantegna at the Mantuan Court
-6. From Typology to Individuality: Portraiture, Identity, Gender
-7. The Cinquecento and the Emergence of Vasari's 'Third Age': Leonardo, Raphael, and Michelangelo
-8. All Roads Lead to the Rome of Pope Julius II
-9. Maniera: High Renaissance Classicism Questioned
-10. Venice: Poesia, Desire and Painting
+1. The Fall of the Idols: Counter-Reformation, the Rejection of Mannerism, and the Emergence of the Carracci
+2. Fruit and Flesh: the Early Roman Works of Caravaggio
+3. Annibale Carracci and The Decorations of the Palazzo Farnese
+4. Genre Painting in the Chapel? The Early Religious Works of Caravaggio 
+5. The Eroticization of Religious Violence in Naples and Rome: the Followers of Caravaggio
+6. Rivalry, Theft, and Sexual Tension: The Heirs of the Carracci 
+7. Fantasies of Hot and Cold Flesh: Sculpture, the Restoration of Antique Fragments, and the Emergence of Bernini in Early Modern Rome
+8. Sculpture as Architecture, Urban Space as Theatre: Papal Projects and the Transformation of Rome
+9. Architecture, Movement, Wisdom: Borromini
+10. The Female Mystic, the Fountain, and the Floating Dome: Bernini’s Projects for Private Patrons and Religious Orders
+11. Bandits and Bamboccianti: Salvator Rosa, Genre Painting, and the Open Market at Mid-Century
+12. From Rome to the World: Late Roman Classicism, the Jesuits, and Visualizing Global Conversion 
+
