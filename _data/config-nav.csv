@@ -2,5 +2,7 @@ display_name,stub,dropdown_parent
 Home,/
 Artworks,/browse.html
 Subjects,/subjects.html
-Timeline,/timeline.html
+Timelines,,
+Collection Timeline, /timeline.html, Timelines
+Timeline JS, /timelinejs.html
 About ARTH 322,/about.html
