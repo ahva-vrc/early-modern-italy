@@ -1,5 +1,5 @@
 ---
 title: TimelineJS
-layout: about
+layout: timelinejs
 permalink: /timelinejs.html
 ---
