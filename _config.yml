@@ -38,6 +38,15 @@ metadata: early_modern_italian_art_and_culture
 encoding: utf-8
 
 ##########
+# Site/Organization Branding 
+#   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
+#
+organization-name: "UBC Department of Art History, Visual Art and Theory"
+organization-link: https://ahva.ubc.ca/
+organization-logo-banner: https://vm.ahva.ubc.ca/vrc/ubc-logo-2021-ahva-standard-blue282rgb300.png
+organization-logo-nav: https://vm.ahva.ubc.ca/vrc/ubc-logo-2021-ahva-standard-blue282rgb300-white.png
+
+##########
 # GOOGLE SERVICES [optional!]
 #
 # leave these blank or comment out to NOT include google code. See docs/google.md
