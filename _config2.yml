@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://ahva-vrc.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /early-modern-italy
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
@@ -18,23 +18,23 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: "ARTH 322: Early Modern Italian Art and Culture (ca. 1550-1700)"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: The Spectacle of the Counter Reformation
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "This website is for the course ARTH 322 Early Modern Italian Art and Culture (ca. 1550-1700): The Spectacle fo the Counter Reformation taught by Joseph Monteyne in the Department of Art History, Visual Art and Theory, University of British Columbia. This course provides a study of the visual culture of Counter Reformation Italy, with particular emphasis on Rome as the center of artistic, cultural, economic, and   religious life in seventeenth century Italy. This website was created on the traditional, ancestral, and unceded territory of the xwməθkwəy̓əm (Musqueam) People on whose lands we live, learn and play on."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: AHVA VRC and Joseph Monteyne
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: early_modern_italian_art_and_culture
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -50,10 +50,10 @@ metadata: demo-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "UBC Department of Art History, Visual Art and Theory"
+organization-link: https://ahva.ubc.ca/
+organization-logo-banner: https://vm.ahva.ubc.ca/vrc/ubc-logo-2021-ahva-standard-blue282rgb300.png
+organization-logo-nav: https://vm.ahva.ubc.ca/vrc/ubc-logo-2021-ahva-standard-blue282rgb300-white.png
 
 ##########
 # GOOGLE SERVICES [optional!]
