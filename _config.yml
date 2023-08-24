@@ -1,0 +1,76 @@
+##########
+# collectionbuilder-gh
+# Jekyll Digital Collection Generator, designed for GitHub Pages
+# https://github.com/CollectionBuilder/collectionbuilder-gh
+##########
+
+##########
+# URL VARIABLES [optional if using GitHub Pages!]
+#
+# url is site domain, full URL to the production location of your collection
+# on GitHub Pages follows the pattern username.github.io
+url: https://ahva-ubc.github.io
+baseurl: /early-modern-italy
+# on GitHub Pages it is your github repository's name prefixed with a /
+#baseurl: /collectionbuilder-gh
+# location of code, the full url to your github repository
+source-code: https://github.com/ahva-ubc/early-modern-italy.git
+
+##########
+# SITE SETTINGS
+#
+# title of site appears in banner
+title: "ARTH 322: Early Modern Italian Art and Culture (ca. 1550-1700)"
+# tagline, a short phrase that will appear throughout the site in the top banner
+tagline: The Spectacle of the Counter Reformation
+# description appears in meta tags and other locations
+# this description might appear in search result lists, keep around 160 characters max
+description: "This website is for the course ARTH 322 Early Modern Italian Art and Culture (ca. 1550-1700): The Spectacle fo the Counter Reformation taught by Joseph Monteyne in the Department of Art History, Visual Art and Theory, University of British Columbia. This course provides a study of the visual culture of Counter Reformation Italy, with particular emphasis on Rome as the center of artistic, cultural, economic, and   religious life in seventeenth century Italy. This website was created on the traditional, ancestral, and unceded territory of the xwməθkwəy̓əm (Musqueam) People on whose lands we live, learn and play on."
+# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+author: AHVA VRC and Joseph Monteyne
+
+##########
+# COLLECTION SETTINGS
+#
+# Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection)
+# Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
+metadata: early_modern_italian_art_and_culture
+encoding: utf-8
+
+##########
+# Site/Organization Branding 
+#   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
+#
+organization-name: "UBC Department of Art History, Visual Art and Theory"
+organization-link: https://ahva.ubc.ca/
+organization-logo-banner: https://vm.ahva.ubc.ca/vrc/ubc-logo-2021-ahva-standard-blue282rgb300.png
+organization-logo-nav: https://vm.ahva.ubc.ca/vrc/ubc-logo-2021-ahva-standard-blue282rgb300-white.png
+
+##########
+# GOOGLE SERVICES [optional!]
+#
+# leave these blank or comment out to NOT include google code. See docs/google.md
+#
+# Add your google-analytics-id to automatically add the embed code, e.g. "UA-76328753-1"
+# google-analytics-id:
+# to populate a Google CSE add the id, e.g. "002151703305773322890:1pu3smhw1t8"
+# google-cse-id:
+
+##########
+# ROBOTS EXCLUDE
+#
+# set noindex to true if you do NOT want Google to index your site
+# noindex: true
+
+##########
+# BUILD SETTINGS
+#
+# Note: use environment variable on build command to include analytics
+# JEKYLL_ENV=production jekyll build
+# (this is done automatically by gh-pages build)
+#
+# ignore stuff
+exclude: [docs/, Rakefile, README.md, LICENSE]
+# compress CSS output
+sass:
+  style: compressed
