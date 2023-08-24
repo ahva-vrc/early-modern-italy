@@ -10,7 +10,7 @@
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
 url: https://ahva-vrc.github.io
-baseurl: /early-modern-italy
+# baseurl: /early-modern-italy
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh
 # location of code, the full url to your github repository
